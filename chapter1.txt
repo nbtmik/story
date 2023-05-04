@@ -1,1 +1,1 @@
-3 ball , 3 six
+3 ball , 3 six(nbt2.0)
